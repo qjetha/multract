@@ -2,6 +2,8 @@ After you have downloaded the multract ado and stored it on your personal do fil
 
 You may use the data within this folder to help test out multract. The "real data" comes from data from a field experiment in India collected using Survey CTO. The "fake data" was created to help debug the program.
 
+As an example:
+
 Using the real data, you might try the following syntax:
 multract if b2_9_what_buy!="", p(" ") varlab drop other(-98) na(-99)
 
