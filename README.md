@@ -4,8 +4,9 @@ Stata program to extract multiple response option string variables (select all t
 See the help file for more information and examples.
 
 To use:
-(1) Download the multract .ado file
+(1) Download the multract repository
 (2) Save the downloaded file into your Stata personal folder
+(3) Use the multract as a normal Stata command, following the syntax outlined in the help file
 
 This program is still in beta testing. Please report all bugs to: qayam.jetha@idinsight.org. Soon a certification script will be created.
 
