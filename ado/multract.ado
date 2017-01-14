@@ -241,7 +241,9 @@ program multract, rclass
 					label variable `newvar' "`pos':`var_lab'"
 				}
 			}
-								
+			
+			drop `parsing'
+			
 		}
 		
 
