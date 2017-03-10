@@ -8,5 +8,5 @@ Using the real data, you might try the following syntax:
 multract if b2_9_what_buy!="", p(" ") varlab drop other(-98) na(-99)
 
 Using the fake data you might try the following syntax:
-multract if name=="qayam", p(" " / - ?) varlab gen(Q) other(-98) na(-99) miss(-333) na(-555)
+multract if name=="qayam", p(" " / - ?) varlab gen(Q) other(-98) na(-99) miss(-333) ref(-555)
 
